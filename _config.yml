@@ -2,7 +2,7 @@ remote_theme: TaylanTatli/Moon
 
 # Site
 title:              Chewbotcca Blog
-bio:                'We\'re Chewbotcca, we make bots..'
+bio:                "We're Chewbotcca, we make bots.."
 description:        "We're Chewbotcca, we make bots."
 reading_time:       true
 words_per_minute:   200
